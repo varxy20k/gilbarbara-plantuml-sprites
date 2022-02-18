@@ -44,7 +44,7 @@ if (options.arguments().size() > 1) {
   System.exit(1)
 }
 def svgsUrl = options.arguments()[0]
-def scaleFactor = options.s ?: DEFAULT_SCALE
+def scaleFactor = options.s ? options.s as double : DEFAULT_SCALE
 def useCache = options.c
 
 listSvgsUrls(svgsUrl)
