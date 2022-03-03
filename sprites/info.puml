@@ -1,0 +1,7 @@
+@startuml
+sprite $info [3x3/16] {
+151
+808
+181
+}
+@enduml
