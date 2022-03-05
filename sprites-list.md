@@ -1507,6 +1507,7 @@
 |express-original|![express-original](pngs/express-original.png)|
 |express|![express](pngs/express.png)|
 |express_large|![express_large](pngs/express_large.png)|
+|external-dns|![external-dns](pngs/external-dns.png)|
 |external-dns_large|![external-dns_large](pngs/external-dns_large.png)|
 |external_secrets|![external_secrets](pngs/external_secrets.png)|
 |f5-member|![f5-member](pngs/f5-member.png)|
