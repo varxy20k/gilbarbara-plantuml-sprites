@@ -963,6 +963,7 @@
 |cloudreach-member|![cloudreach-member](pngs/cloudreach-member.png)|
 |cloudsmith-member|![cloudsmith-member](pngs/cloudsmith-member.png)|
 |cloudsmith_large|![cloudsmith_large](pngs/cloudsmith_large.png)|
+|cluster-autoscaler|![cluster-autoscaler](pngs/cluster-autoscaler.png)|
 |clyso-member|![clyso-member](pngs/clyso-member.png)|
 |cni-genie|![cni-genie](pngs/cni-genie.png)|
 |cobalt|![cobalt](pngs/cobalt.png)|
