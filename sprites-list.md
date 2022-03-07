@@ -816,6 +816,7 @@
 |centreon|![centreon](pngs/centreon.png)|
 |ceph|![ceph](pngs/ceph.png)|
 |ceph_large|![ceph_large](pngs/ceph_large.png)|
+|cert-manager|![cert-manager](pngs/cert-manager.png)|
 |cert-manager_large|![cert-manager_large](pngs/cert-manager_large.png)|
 |certbot|![certbot](pngs/certbot.png)|
 |ceylon-original-wordmark|![ceylon-original-wordmark](pngs/ceylon-original-wordmark.png)|
