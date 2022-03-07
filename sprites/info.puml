@@ -1,7 +1,9 @@
 @startuml
-sprite $info [3x3/16] {
-151
-808
-181
+sprite $info [5x5/16] {
+03830
+38183
+88088
+38083
+03830
 }
 @enduml
