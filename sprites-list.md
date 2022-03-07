@@ -2415,6 +2415,7 @@
 |kubernetes-plain-wordmark|![kubernetes-plain-wordmark](pngs/kubernetes-plain-wordmark.png)|
 |kubernetes-plain|![kubernetes-plain](pngs/kubernetes-plain.png)|
 |kubernetes-the-easier-way|![kubernetes-the-easier-way](pngs/kubernetes-the-easier-way.png)|
+|kubernetes-vpa|![kubernetes-vpa](pngs/kubernetes-vpa.png)|
 |kubernetes|![kubernetes](pngs/kubernetes.png)|
 |kubernetes_2|![kubernetes_2](pngs/kubernetes_2.png)|
 |kubernetes_large|![kubernetes_large](pngs/kubernetes_large.png)|
