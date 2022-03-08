@@ -1,7 +1,5 @@
 @startuml
-sprite $info [3x3/16] {
-151
-808
-181
+sprite $info [1x1/16] {
+0
 }
 @enduml
