@@ -108,6 +108,7 @@
 |alibaba-cloud_large|![alibaba-cloud_large](pngs/alibaba-cloud_large.png)|
 |all-cloud-member|![all-cloud-member](pngs/all-cloud-member.png)|
 |allianz-direct-member|![allianz-direct-member](pngs/allianz-direct-member.png)|
+|allure-report-logo|![allure-report-logo](pngs/allure-report-logo.png)|
 |alluxio|![alluxio](pngs/alluxio.png)|
 |alpinejs-icon|![alpinejs-icon](pngs/alpinejs-icon.png)|
 |alpinejs|![alpinejs](pngs/alpinejs.png)|
