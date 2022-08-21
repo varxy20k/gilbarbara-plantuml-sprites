@@ -7,6 +7,8 @@
 @Grab('org.apache.xmlgraphics:batik-codec:1.14')
 @Grab('info.picocli:picocli-groovy:4.6.3')
 
+@GrabExclude('xml-apis:xml-apis')
+
 import groovy.json.JsonSlurper
 import java.awt.AlphaComposite
 import java.awt.Color
