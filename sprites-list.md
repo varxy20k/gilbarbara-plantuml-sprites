@@ -63,8 +63,18 @@
 |adfolks-member|![adfolks-member](pngs/adfolks-member.png)|
 |adfolks|![adfolks](pngs/adfolks.png)|
 |adidas-supporter|![adidas-supporter](pngs/adidas-supporter.png)|
+|adobe-after-effects|![adobe-after-effects](pngs/adobe-after-effects.png)|
+|adobe-animate|![adobe-animate](pngs/adobe-animate.png)|
+|adobe-dreamweaver|![adobe-dreamweaver](pngs/adobe-dreamweaver.png)|
+|adobe-illustrator|![adobe-illustrator](pngs/adobe-illustrator.png)|
+|adobe-incopy|![adobe-incopy](pngs/adobe-incopy.png)|
+|adobe-indesign|![adobe-indesign](pngs/adobe-indesign.png)|
 |adobe-launch|![adobe-launch](pngs/adobe-launch.png)|
+|adobe-lightroom|![adobe-lightroom](pngs/adobe-lightroom.png)|
 |adobe-login-brand-mark|![adobe-login-brand-mark](pngs/adobe-login-brand-mark.png)|
+|adobe-photoshop|![adobe-photoshop](pngs/adobe-photoshop.png)|
+|adobe-premiere|![adobe-premiere](pngs/adobe-premiere.png)|
+|adobe-xd|![adobe-xd](pngs/adobe-xd.png)|
 |adobe_large|![adobe_large](pngs/adobe_large.png)|
 |adonisjs-icon|![adonisjs-icon](pngs/adonisjs-icon.png)|
 |adonisjs-original-wordmark|![adonisjs-original-wordmark](pngs/adonisjs-original-wordmark.png)|
@@ -75,6 +85,7 @@
 |aeolabs-member|![aeolabs-member](pngs/aeolabs-member.png)|
 |aeolabs|![aeolabs](pngs/aeolabs.png)|
 |aeraki-mesh|![aeraki-mesh](pngs/aeraki-mesh.png)|
+|aerogear|![aerogear](pngs/aerogear.png)|
 |aerospike-icon|![aerospike-icon](pngs/aerospike-icon.png)|
 |aerospike-member|![aerospike-member](pngs/aerospike-member.png)|
 |aerospike|![aerospike](pngs/aerospike.png)|
@@ -91,10 +102,13 @@
 |agree-technology-member|![agree-technology-member](pngs/agree-technology-member.png)|
 |agree-technology|![agree-technology](pngs/agree-technology.png)|
 |agyla-member|![agyla-member](pngs/agyla-member.png)|
+|aha|![aha](pngs/aha.png)|
+|airbnb-icon|![airbnb-icon](pngs/airbnb-icon.png)|
 |airbnb-supporter|![airbnb-supporter](pngs/airbnb-supporter.png)|
 |airbnb|![airbnb](pngs/airbnb.png)|
 |airbrake|![airbrake](pngs/airbrake.png)|
 |airbrake_large|![airbrake_large](pngs/airbrake_large.png)|
+|airflow-icon|![airflow-icon](pngs/airflow-icon.png)|
 |airflow|![airflow](pngs/airflow.png)|
 |airflow_large|![airflow_large](pngs/airflow_large.png)|
 |airlock-member|![airlock-member](pngs/airlock-member.png)|
@@ -104,6 +118,7 @@
 |airtable|![airtable](pngs/airtable.png)|
 |aiven-member|![aiven-member](pngs/aiven-member.png)|
 |aiven|![aiven](pngs/aiven.png)|
+|aix|![aix](pngs/aix.png)|
 |akamai-datastream_large|![akamai-datastream_large](pngs/akamai-datastream_large.png)|
 |akamai-mpulse_large|![akamai-mpulse_large](pngs/akamai-mpulse_large.png)|
 |akamai|![akamai](pngs/akamai.png)|
@@ -292,6 +307,7 @@
 |ambassador-labs|![ambassador-labs](pngs/ambassador-labs.png)|
 |ambassador-member|![ambassador-member](pngs/ambassador-member.png)|
 |ambassador_large|![ambassador_large](pngs/ambassador_large.png)|
+|amd|![amd](pngs/amd.png)|
 |american-express-member|![american-express-member](pngs/american-express-member.png)|
 |american-express|![american-express](pngs/american-express.png)|
 |amex|![amex](pngs/amex.png)|
@@ -304,6 +320,8 @@
 |amp|![amp](pngs/amp.png)|
 |ampere-consulting-member|![ampere-consulting-member](pngs/ampere-consulting-member.png)|
 |ampersand|![ampersand](pngs/ampersand.png)|
+|amplication-icon|![amplication-icon](pngs/amplication-icon.png)|
+|amplication|![amplication](pngs/amplication.png)|
 |amplitude-icon|![amplitude-icon](pngs/amplitude-icon.png)|
 |amplitude|![amplitude](pngs/amplitude.png)|
 |anchnet-kcsp|![anchnet-kcsp](pngs/anchnet-kcsp.png)|
@@ -319,6 +337,7 @@
 |android-original|![android-original](pngs/android-original.png)|
 |android-plain-wordmark|![android-plain-wordmark](pngs/android-plain-wordmark.png)|
 |android-plain|![android-plain](pngs/android-plain.png)|
+|android-vertical|![android-vertical](pngs/android-vertical.png)|
 |android|![android](pngs/android.png)|
 |angellist|![angellist](pngs/angellist.png)|
 |angular-icon|![angular-icon](pngs/angular-icon.png)|
@@ -391,6 +410,8 @@
 |appcelerator-original-wordmark|![appcelerator-original-wordmark](pngs/appcelerator-original-wordmark.png)|
 |appcelerator-original|![appcelerator-original](pngs/appcelerator-original.png)|
 |appcelerator-plain-wordmark|![appcelerator-plain-wordmark](pngs/appcelerator-plain-wordmark.png)|
+|appcenter-icon|![appcenter-icon](pngs/appcenter-icon.png)|
+|appcenter|![appcenter](pngs/appcenter.png)|
 |appcircle-icon|![appcircle-icon](pngs/appcircle-icon.png)|
 |appcircle|![appcircle](pngs/appcircle.png)|
 |appcode|![appcode](pngs/appcode.png)|
@@ -398,6 +419,7 @@
 |appddiction-studio-ktp|![appddiction-studio-ktp](pngs/appddiction-studio-ktp.png)|
 |appddiction-studio-member|![appddiction-studio-member](pngs/appddiction-studio-member.png)|
 |appddiction-studio|![appddiction-studio](pngs/appddiction-studio.png)|
+|appdynamics-icon|![appdynamics-icon](pngs/appdynamics-icon.png)|
 |appdynamics|![appdynamics](pngs/appdynamics.png)|
 |appium|![appium](pngs/appium.png)|
 |appium_3|![appium_3](pngs/appium_3.png)|
@@ -422,16 +444,19 @@
 |appvia-kcsp|![appvia-kcsp](pngs/appvia-kcsp.png)|
 |appvia-member|![appvia-member](pngs/appvia-member.png)|
 |appvia|![appvia](pngs/appvia.png)|
+|appwrite-icon|![appwrite-icon](pngs/appwrite-icon.png)|
 |appwrite-original-wordmark|![appwrite-original-wordmark](pngs/appwrite-original-wordmark.png)|
 |appwrite-original|![appwrite-original](pngs/appwrite-original.png)|
 |appwrite-plain-wordmark|![appwrite-plain-wordmark](pngs/appwrite-plain-wordmark.png)|
 |appwrite-plain|![appwrite-plain](pngs/appwrite-plain.png)|
+|appwrite|![appwrite](pngs/appwrite.png)|
 |aqua-security-kcsp|![aqua-security-kcsp](pngs/aqua-security-kcsp.png)|
 |aqua-security-member|![aqua-security-member](pngs/aqua-security-member.png)|
 |aqua|![aqua](pngs/aqua.png)|
 |aqua_large|![aqua_large](pngs/aqua_large.png)|
 |arango-db-member|![arango-db-member](pngs/arango-db-member.png)|
 |arango-db|![arango-db](pngs/arango-db.png)|
+|arangodb-icon|![arangodb-icon](pngs/arangodb-icon.png)|
 |arangodb|![arangodb](pngs/arangodb.png)|
 |architect|![architect](pngs/architect.png)|
 |archlinux|![archlinux](pngs/archlinux.png)|
@@ -458,14 +483,17 @@
 |arm-member|![arm-member](pngs/arm-member.png)|
 |arm-treasure-data-kcsp|![arm-treasure-data-kcsp](pngs/arm-treasure-data-kcsp.png)|
 |arm-treasure-data|![arm-treasure-data](pngs/arm-treasure-data.png)|
+|arm|![arm](pngs/arm.png)|
 |armo-member|![armo-member](pngs/armo-member.png)|
 |armo|![armo](pngs/armo.png)|
+|armory-icon|![armory-icon](pngs/armory-icon.png)|
 |armory-member|![armory-member](pngs/armory-member.png)|
 |armory|![armory](pngs/armory.png)|
 |armory_2|![armory_2](pngs/armory_2.png)|
 |arrikto-member|![arrikto-member](pngs/arrikto-member.png)|
 |arrikto|![arrikto](pngs/arrikto.png)|
 |artifact-hub|![artifact-hub](pngs/artifact-hub.png)|
+|asana-icon|![asana-icon](pngs/asana-icon.png)|
 |asana|![asana](pngs/asana.png)|
 |asciidoctor|![asciidoctor](pngs/asciidoctor.png)|
 |aserto-member|![aserto-member](pngs/aserto-member.png)|
@@ -480,6 +508,8 @@
 |aspen-mesh-kcsp|![aspen-mesh-kcsp](pngs/aspen-mesh-kcsp.png)|
 |aspen-mesh-member|![aspen-mesh-member](pngs/aspen-mesh-member.png)|
 |aspen-mesh|![aspen-mesh](pngs/aspen-mesh.png)|
+|assembla-icon|![assembla-icon](pngs/assembla-icon.png)|
+|assembla|![assembla](pngs/assembla.png)|
 |astro|![astro](pngs/astro.png)|
 |astronomer|![astronomer](pngs/astronomer.png)|
 |asus-cloud-corporation-member|![asus-cloud-corporation-member](pngs/asus-cloud-corporation-member.png)|
@@ -501,6 +531,8 @@
 |atom|![atom](pngs/atom.png)|
 |atomic-icon|![atomic-icon](pngs/atomic-icon.png)|
 |atomic|![atomic](pngs/atomic.png)|
+|atomicojs-icon|![atomicojs-icon](pngs/atomicojs-icon.png)|
+|atomicojs|![atomicojs](pngs/atomicojs.png)|
 |atomist|![atomist](pngs/atomist.png)|
 |att|![att](pngs/att.png)|
 |audi-supporter|![audi-supporter](pngs/audi-supporter.png)|
@@ -729,6 +761,7 @@
 |bankofmontreal|![bankofmontreal](pngs/bankofmontreal.png)|
 |banzai-cloud-kcsp|![banzai-cloud-kcsp](pngs/banzai-cloud-kcsp.png)|
 |banzai-cloud|![banzai-cloud](pngs/banzai-cloud.png)|
+|basecamp-icon|![basecamp-icon](pngs/basecamp-icon.png)|
 |basecamp|![basecamp](pngs/basecamp.png)|
 |basekit|![basekit](pngs/basekit.png)|
 |bash-icon|![bash-icon](pngs/bash-icon.png)|
@@ -771,6 +804,7 @@
 |biqmind-member|![biqmind-member](pngs/biqmind-member.png)|
 |biqmind|![biqmind](pngs/biqmind.png)|
 |bit-mex-supporter|![bit-mex-supporter](pngs/bit-mex-supporter.png)|
+|bitbar|![bitbar](pngs/bitbar.png)|
 |bitbucket-original-wordmark|![bitbucket-original-wordmark](pngs/bitbucket-original-wordmark.png)|
 |bitbucket-original|![bitbucket-original](pngs/bitbucket-original.png)|
 |bitbucket|![bitbucket](pngs/bitbucket.png)|
@@ -822,6 +856,7 @@
 |bonc-member|![bonc-member](pngs/bonc-member.png)|
 |bonc|![bonc](pngs/bonc.png)|
 |bonsai_large|![bonsai_large](pngs/bonsai_large.png)|
+|booqable-icon|![booqable-icon](pngs/booqable-icon.png)|
 |booqable|![booqable](pngs/booqable.png)|
 |bootstrap-original|![bootstrap-original](pngs/bootstrap-original.png)|
 |bootstrap-plain-wordmark|![bootstrap-plain-wordmark](pngs/bootstrap-plain-wordmark.png)|
@@ -848,15 +883,19 @@
 |boxboat-member|![boxboat-member](pngs/boxboat-member.png)|
 |boxboat|![boxboat](pngs/boxboat.png)|
 |brackets|![brackets](pngs/brackets.png)|
+|brainjs|![brainjs](pngs/brainjs.png)|
+|branch-icon|![branch-icon](pngs/branch-icon.png)|
 |branch|![branch](pngs/branch.png)|
 |brandfolder-icon|![brandfolder-icon](pngs/brandfolder-icon.png)|
 |brandfolder|![brandfolder](pngs/brandfolder.png)|
 |brave|![brave](pngs/brave.png)|
+|braze-icon|![braze-icon](pngs/braze-icon.png)|
 |braze|![braze](pngs/braze.png)|
 |brickdoc-member|![brickdoc-member](pngs/brickdoc-member.png)|
 |brickdoc|![brickdoc](pngs/brickdoc.png)|
 |bridgecrew-member|![bridgecrew-member](pngs/bridgecrew-member.png)|
 |brigade|![brigade](pngs/brigade.png)|
+|broadcom-icon|![broadcom-icon](pngs/broadcom-icon.png)|
 |broadcom-member|![broadcom-member](pngs/broadcom-member.png)|
 |broadcom|![broadcom](pngs/broadcom.png)|
 |brobridge-kcsp|![brobridge-kcsp](pngs/brobridge-kcsp.png)|
@@ -876,6 +915,7 @@
 |buddy|![buddy](pngs/buddy.png)|
 |buddy_large|![buddy_large](pngs/buddy_large.png)|
 |buffer|![buffer](pngs/buffer.png)|
+|bugherd-icon|![bugherd-icon](pngs/bugherd-icon.png)|
 |bugherd|![bugherd](pngs/bugherd.png)|
 |bugsee|![bugsee](pngs/bugsee.png)|
 |bugsnag-icon|![bugsnag-icon](pngs/bugsnag-icon.png)|
@@ -889,6 +929,7 @@
 |buildpacks|![buildpacks](pngs/buildpacks.png)|
 |bulma-plain|![bulma-plain](pngs/bulma-plain.png)|
 |bulma|![bulma](pngs/bulma.png)|
+|bun|![bun](pngs/bun.png)|
 |bunnyshell-member|![bunnyshell-member](pngs/bunnyshell-member.png)|
 |bunnyshell|![bunnyshell](pngs/bunnyshell.png)|
 |buoyant-member|![buoyant-member](pngs/buoyant-member.png)|
@@ -918,6 +959,8 @@
 |cakephp-plain-wordmark|![cakephp-plain-wordmark](pngs/cakephp-plain-wordmark.png)|
 |cakephp-plain|![cakephp-plain](pngs/cakephp-plain.png)|
 |cakephp|![cakephp](pngs/cakephp.png)|
+|calibre-icon|![calibre-icon](pngs/calibre-icon.png)|
+|calibre|![calibre](pngs/calibre.png)|
 |calyptia-member|![calyptia-member](pngs/calyptia-member.png)|
 |calyptia|![calyptia](pngs/calyptia.png)|
 |cambia-health-solutions-member|![cambia-health-solutions-member](pngs/cambia-health-solutions-member.png)|
@@ -949,6 +992,8 @@
 |carbide|![carbide](pngs/carbide.png)|
 |carbonblack_large|![carbonblack_large](pngs/carbonblack_large.png)|
 |carbondata|![carbondata](pngs/carbondata.png)|
+|cardano-icon|![cardano-icon](pngs/cardano-icon.png)|
+|cardano|![cardano](pngs/cardano.png)|
 |cardinal-health-supporter|![cardinal-health-supporter](pngs/cardinal-health-supporter.png)|
 |cardinal-health|![cardinal-health](pngs/cardinal-health.png)|
 |cars-china-academy-of-railway-sciences-kcsp|![cars-china-academy-of-railway-sciences-kcsp](pngs/cars-china-academy-of-railway-sciences-kcsp.png)|
@@ -1165,6 +1210,8 @@
 |cloudcontrol|![cloudcontrol](pngs/cloudcontrol.png)|
 |cloudcover|![cloudcover](pngs/cloudcover.png)|
 |cloudcraft|![cloudcraft](pngs/cloudcraft.png)|
+|cloudflare-workers-alt|![cloudflare-workers-alt](pngs/cloudflare-workers-alt.png)|
+|cloudflare-workers-icon|![cloudflare-workers-icon](pngs/cloudflare-workers-icon.png)|
 |cloudflare-workers|![cloudflare-workers](pngs/cloudflare-workers.png)|
 |cloudflare|![cloudflare](pngs/cloudflare.png)|
 |cloudflare_large|![cloudflare_large](pngs/cloudflare_large.png)|
@@ -1175,6 +1222,7 @@
 |cloudical-kcsp|![cloudical-kcsp](pngs/cloudical-kcsp.png)|
 |cloudical-member|![cloudical-member](pngs/cloudical-member.png)|
 |cloudify|![cloudify](pngs/cloudify.png)|
+|cloudinary-icon|![cloudinary-icon](pngs/cloudinary-icon.png)|
 |cloudinary|![cloudinary](pngs/cloudinary.png)|
 |cloudiq|![cloudiq](pngs/cloudiq.png)|
 |cloudlinux|![cloudlinux](pngs/cloudlinux.png)|
@@ -1216,12 +1264,14 @@
 |codecademy|![codecademy](pngs/codecademy.png)|
 |codeception|![codeception](pngs/codeception.png)|
 |codeclimate|![codeclimate](pngs/codeclimate.png)|
+|codecov-icon|![codecov-icon](pngs/codecov-icon.png)|
 |codecov-plain|![codecov-plain](pngs/codecov-plain.png)|
 |codecov|![codecov](pngs/codecov.png)|
 |codefactor-icon|![codefactor-icon](pngs/codefactor-icon.png)|
 |codefactor|![codefactor](pngs/codefactor.png)|
 |codefresh-member|![codefresh-member](pngs/codefresh-member.png)|
 |codefresh|![codefresh](pngs/codefresh.png)|
+|codeigniter-icon|![codeigniter-icon](pngs/codeigniter-icon.png)|
 |codeigniter-plain-wordmark|![codeigniter-plain-wordmark](pngs/codeigniter-plain-wordmark.png)|
 |codeigniter-plain|![codeigniter-plain](pngs/codeigniter-plain.png)|
 |codeigniter|![codeigniter](pngs/codeigniter.png)|
@@ -1232,8 +1282,10 @@
 |codepush|![codepush](pngs/codepush.png)|
 |coder-member|![coder-member](pngs/coder-member.png)|
 |coder|![coder](pngs/coder.png)|
+|codersrank-icon|![codersrank-icon](pngs/codersrank-icon.png)|
 |codersrank|![codersrank](pngs/codersrank.png)|
 |coderwall|![coderwall](pngs/coderwall.png)|
+|codesandbox-icon|![codesandbox-icon](pngs/codesandbox-icon.png)|
 |codesandbox|![codesandbox](pngs/codesandbox.png)|
 |codeship-logo|![codeship-logo](pngs/codeship-logo.png)|
 |codeship|![codeship](pngs/codeship.png)|
@@ -1266,6 +1318,8 @@
 |concourse|![concourse](pngs/concourse.png)|
 |concourse_2|![concourse_2](pngs/concourse_2.png)|
 |concrete5|![concrete5](pngs/concrete5.png)|
+|concretecms-icon|![concretecms-icon](pngs/concretecms-icon.png)|
+|concretecms|![concretecms](pngs/concretecms.png)|
 |configcat_large|![configcat_large](pngs/configcat_large.png)|
 |confluence-original-wordmark|![confluence-original-wordmark](pngs/confluence-original-wordmark.png)|
 |confluence-original|![confluence-original](pngs/confluence-original.png)|
@@ -1306,6 +1360,7 @@
 |control-plane-member|![control-plane-member](pngs/control-plane-member.png)|
 |controlplane|![controlplane](pngs/controlplane.png)|
 |conviva_large|![conviva_large](pngs/conviva_large.png)|
+|convox-icon|![convox-icon](pngs/convox-icon.png)|
 |convox|![convox](pngs/convox.png)|
 |convox_large|![convox_large](pngs/convox_large.png)|
 |cookpad-supporter|![cookpad-supporter](pngs/cookpad-supporter.png)|
@@ -1424,6 +1479,7 @@
 |cycloid|![cycloid](pngs/cycloid.png)|
 |cycode-member|![cycode-member](pngs/cycode-member.png)|
 |cycode|![cycode](pngs/cycode.png)|
+|cypress-icon|![cypress-icon](pngs/cypress-icon.png)|
 |cypress|![cypress](pngs/cypress.png)|
 |cyral_large|![cyral_large](pngs/cyral_large.png)|
 |d-gi-kcsp|![d-gi-kcsp](pngs/d-gi-kcsp.png)|
@@ -1528,8 +1584,10 @@
 |denojs-original|![denojs-original](pngs/denojs-original.png)|
 |densify|![densify](pngs/densify.png)|
 |denso-member|![denso-member](pngs/denso-member.png)|
+|dependabot|![dependabot](pngs/dependabot.png)|
 |deploy-hub-member|![deploy-hub-member](pngs/deploy-hub-member.png)|
 |deploy-hub|![deploy-hub](pngs/deploy-hub.png)|
+|deployhq-icon|![deployhq-icon](pngs/deployhq-icon.png)|
 |deployhq|![deployhq](pngs/deployhq.png)|
 |derby|![derby](pngs/derby.png)|
 |designernews|![designernews](pngs/designernews.png)|
@@ -1563,6 +1621,8 @@
 |dfds-supporter|![dfds-supporter](pngs/dfds-supporter.png)|
 |dfds|![dfds](pngs/dfds.png)|
 |dgi|![dgi](pngs/dgi.png)|
+|dgraph-alt|![dgraph-alt](pngs/dgraph-alt.png)|
+|dgraph-icon|![dgraph-icon](pngs/dgraph-icon.png)|
 |dgraph|![dgraph](pngs/dgraph.png)|
 |di-di-infinity-technology-and-development-member|![di-di-infinity-technology-and-development-member](pngs/di-di-infinity-technology-and-development-member.png)|
 |dialogflow|![dialogflow](pngs/dialogflow.png)|
@@ -1596,6 +1656,8 @@
 |direktiv|![direktiv](pngs/direktiv.png)|
 |discord-icon|![discord-icon](pngs/discord-icon.png)|
 |discord|![discord](pngs/discord.png)|
+|discourse-icon|![discourse-icon](pngs/discourse-icon.png)|
+|discourse|![discourse](pngs/discourse.png)|
 |discover-financial-services-supporter|![discover-financial-services-supporter](pngs/discover-financial-services-supporter.png)|
 |discover|![discover](pngs/discover.png)|
 |disk_large|![disk_large](pngs/disk_large.png)|
@@ -1672,6 +1734,8 @@
 |drone-icon|![drone-icon](pngs/drone-icon.png)|
 |drone|![drone](pngs/drone.png)|
 |drone_2|![drone_2](pngs/drone_2.png)|
+|drools-icon|![drools-icon](pngs/drools-icon.png)|
+|drools|![drools](pngs/drools.png)|
 |dropbox|![dropbox](pngs/dropbox.png)|
 |dropmark|![dropmark](pngs/dropmark.png)|
 |dropzone|![dropzone](pngs/dropzone.png)|
@@ -1716,6 +1780,7 @@
 |eclipse-icon|![eclipse-icon](pngs/eclipse-icon.png)|
 |eclipse|![eclipse](pngs/eclipse.png)|
 |eclipseche|![eclipseche](pngs/eclipseche.png)|
+|ecma|![ecma](pngs/ecma.png)|
 |edb-kcsp|![edb-kcsp](pngs/edb-kcsp.png)|
 |edb-member|![edb-member](pngs/edb-member.png)|
 |edge-delta-member|![edge-delta-member](pngs/edge-delta-member.png)|
@@ -1732,6 +1797,8 @@
 |elastic-apm|![elastic-apm](pngs/elastic-apm.png)|
 |elastic-member|![elastic-member](pngs/elastic-member.png)|
 |elastic|![elastic](pngs/elastic.png)|
+|elasticpath-icon|![elasticpath-icon](pngs/elasticpath-icon.png)|
+|elasticpath|![elasticpath](pngs/elasticpath.png)|
 |elasticsearch|![elasticsearch](pngs/elasticsearch.png)|
 |elasticsearch_large|![elasticsearch_large](pngs/elasticsearch_large.png)|
 |elastisys-compliant-kubernetes|![elastisys-compliant-kubernetes](pngs/elastisys-compliant-kubernetes.png)|
@@ -1752,6 +1819,7 @@
 |elephant|![elephant](pngs/elephant.png)|
 |eleventy-original|![eleventy-original](pngs/eleventy-original.png)|
 |eleventy-plain|![eleventy-plain](pngs/eleventy-plain.png)|
+|eleventy|![eleventy](pngs/eleventy.png)|
 |elixir-original-wordmark|![elixir-original-wordmark](pngs/elixir-original-wordmark.png)|
 |elixir-original|![elixir-original](pngs/elixir-original.png)|
 |elixir-plain-wordmark|![elixir-plain-wordmark](pngs/elixir-plain-wordmark.png)|
@@ -1783,6 +1851,7 @@
 |emq-technologies|![emq-technologies](pngs/emq-technologies.png)|
 |emscripten|![emscripten](pngs/emscripten.png)|
 |en-route-one-step-ingress|![en-route-one-step-ingress](pngs/en-route-one-step-ingress.png)|
+|enact|![enact](pngs/enact.png)|
 |engine-yard-icon|![engine-yard-icon](pngs/engine-yard-icon.png)|
 |engine-yard|![engine-yard](pngs/engine-yard.png)|
 |engineer-better-kcsp|![engineer-better-kcsp](pngs/engineer-better-kcsp.png)|
@@ -1892,6 +1961,8 @@
 |fastly_large|![fastly_large](pngs/fastly_large.png)|
 |fatmap-supporter|![fatmap-supporter](pngs/fatmap-supporter.png)|
 |fatmap|![fatmap](pngs/fatmap.png)|
+|fauna-icon|![fauna-icon](pngs/fauna-icon.png)|
+|fauna|![fauna](pngs/fauna.png)|
 |fd-io|![fd-io](pngs/fd-io.png)|
 |fdio|![fdio](pngs/fdio.png)|
 |feathersjs-original|![feathersjs-original](pngs/feathersjs-original.png)|
@@ -1900,6 +1971,8 @@
 |fedora|![fedora](pngs/fedora.png)|
 |feed_large|![feed_large](pngs/feed_large.png)|
 |fetch|![fetch](pngs/fetch.png)|
+|ffmpeg-icon|![ffmpeg-icon](pngs/ffmpeg-icon.png)|
+|ffmpeg|![ffmpeg](pngs/ffmpeg.png)|
 |fidelity-investments-member|![fidelity-investments-member](pngs/fidelity-investments-member.png)|
 |fidelity-investments|![fidelity-investments](pngs/fidelity-investments.png)|
 |figma-original|![figma-original](pngs/figma-original.png)|
@@ -1947,6 +2020,7 @@
 |flattr|![flattr](pngs/flattr.png)|
 |fleep|![fleep](pngs/fleep.png)|
 |flexkube|![flexkube](pngs/flexkube.png)|
+|flickr-icon|![flickr-icon](pngs/flickr-icon.png)|
 |flickr|![flickr](pngs/flickr.png)|
 |flight|![flight](pngs/flight.png)|
 |flink|![flink](pngs/flink.png)|
@@ -1971,8 +2045,12 @@
 |flux|![flux](pngs/flux.png)|
 |flux_2|![flux_2](pngs/flux_2.png)|
 |fluxxor|![fluxxor](pngs/fluxxor.png)|
+|fly-icon|![fly-icon](pngs/fly-icon.png)|
 |fly|![fly](pngs/fly.png)|
 |fmbt|![fmbt](pngs/fmbt.png)|
+|fogbugz-icon|![fogbugz-icon](pngs/fogbugz-icon.png)|
+|fogbugz|![fogbugz](pngs/fogbugz.png)|
+|fomo-icon|![fomo-icon](pngs/fomo-icon.png)|
 |fomo|![fomo](pngs/fomo.png)|
 |fonio|![fonio](pngs/fonio.png)|
 |font-awesome|![font-awesome](pngs/font-awesome.png)|
@@ -1982,6 +2060,7 @@
 |forever|![forever](pngs/forever.png)|
 |form3-supporter|![form3-supporter](pngs/form3-supporter.png)|
 |formkeep|![formkeep](pngs/formkeep.png)|
+|fortran|![fortran](pngs/fortran.png)|
 |fossa-member|![fossa-member](pngs/fossa-member.png)|
 |fossa|![fossa](pngs/fossa.png)|
 |fossid|![fossid](pngs/fossid.png)|
@@ -2004,6 +2083,7 @@
 |freedcamp-icon|![freedcamp-icon](pngs/freedcamp-icon.png)|
 |freedcamp|![freedcamp](pngs/freedcamp.png)|
 |freedomdefined|![freedomdefined](pngs/freedomdefined.png)|
+|fresh|![fresh](pngs/fresh.png)|
 |frontapp|![frontapp](pngs/frontapp.png)|
 |fsharp-original|![fsharp-original](pngs/fsharp-original.png)|
 |fsharp-plain|![fsharp-plain](pngs/fsharp-plain.png)|
@@ -2135,6 +2215,8 @@
 |gnome|![gnome](pngs/gnome.png)|
 |gnu-net|![gnu-net](pngs/gnu-net.png)|
 |gnu|![gnu](pngs/gnu.png)|
+|gnupg-icon|![gnupg-icon](pngs/gnupg-icon.png)|
+|gnupg|![gnupg](pngs/gnupg.png)|
 |go-cd-logo|![go-cd-logo](pngs/go-cd-logo.png)|
 |go-cd|![go-cd](pngs/go-cd.png)|
 |go-daddy-member|![go-daddy-member](pngs/go-daddy-member.png)|
@@ -2151,10 +2233,12 @@
 |go_large|![go_large](pngs/go_large.png)|
 |gocd|![gocd](pngs/gocd.png)|
 |godaddy|![godaddy](pngs/godaddy.png)|
+|godot-icon|![godot-icon](pngs/godot-icon.png)|
 |godot-original-wordmark|![godot-original-wordmark](pngs/godot-original-wordmark.png)|
 |godot-original|![godot-original](pngs/godot-original.png)|
 |godot-plain-wordmark|![godot-plain-wordmark](pngs/godot-plain-wordmark.png)|
 |godot-plain|![godot-plain](pngs/godot-plain.png)|
+|godot|![godot](pngs/godot.png)|
 |gohorse|![gohorse](pngs/gohorse.png)|
 |golden-gate-university-member|![golden-gate-university-member](pngs/golden-gate-university-member.png)|
 |goldilocks|![goldilocks](pngs/goldilocks.png)|
@@ -2238,6 +2322,7 @@
 |google-plain|![google-plain](pngs/google-plain.png)|
 |google-play-icon|![google-play-icon](pngs/google-play-icon.png)|
 |google-play|![google-play](pngs/google-play.png)|
+|google-search-console|![google-search-console](pngs/google-search-console.png)|
 |google-stackdriver-logging_large|![google-stackdriver-logging_large](pngs/google-stackdriver-logging_large.png)|
 |google-stackdriver|![google-stackdriver](pngs/google-stackdriver.png)|
 |google-tag-manager|![google-tag-manager](pngs/google-tag-manager.png)|
@@ -2264,6 +2349,8 @@
 |grafeas|![grafeas](pngs/grafeas.png)|
 |grails-original|![grails-original](pngs/grails-original.png)|
 |grails|![grails](pngs/grails.png)|
+|grammarly-icon|![grammarly-icon](pngs/grammarly-icon.png)|
+|grammarly|![grammarly](pngs/grammarly.png)|
 |granulate-member|![granulate-member](pngs/granulate-member.png)|
 |granulate|![granulate](pngs/granulate.png)|
 |grape-up-kcsp|![grape-up-kcsp](pngs/grape-up-kcsp.png)|
@@ -2276,6 +2363,7 @@
 |graphql|![graphql](pngs/graphql.png)|
 |graphscope|![graphscope](pngs/graphscope.png)|
 |grav|![grav](pngs/grav.png)|
+|gravatar-icon|![gravatar-icon](pngs/gravatar-icon.png)|
 |gravatar|![gravatar](pngs/gravatar.png)|
 |gravitee-io|![gravitee-io](pngs/gravitee-io.png)|
 |gravitee|![gravitee](pngs/gravitee.png)|
@@ -2371,6 +2459,7 @@
 |hasura-cloud_large|![hasura-cloud_large](pngs/hasura-cloud_large.png)|
 |hasura-graph-ql-engine|![hasura-graph-ql-engine](pngs/hasura-graph-ql-engine.png)|
 |hasura-graphqlengine|![hasura-graphqlengine](pngs/hasura-graphqlengine.png)|
+|hasura-icon|![hasura-icon](pngs/hasura-icon.png)|
 |hasura-technologies-member|![hasura-technologies-member](pngs/hasura-technologies-member.png)|
 |hasura|![hasura](pngs/hasura.png)|
 |haxe-original|![haxe-original](pngs/haxe-original.png)|
@@ -2388,6 +2477,9 @@
 |hcl|![hcl](pngs/hcl.png)|
 |hcp-vault_large|![hcp-vault_large](pngs/hcp-vault_large.png)|
 |hdfs_large|![hdfs_large](pngs/hdfs_large.png)|
+|headlessui-icon|![headlessui-icon](pngs/headlessui-icon.png)|
+|headlessui|![headlessui](pngs/headlessui.png)|
+|heap-icon|![heap-icon](pngs/heap-icon.png)|
 |heap|![heap](pngs/heap.png)|
 |helios-member|![helios-member](pngs/helios-member.png)|
 |helios|![helios](pngs/helios.png)|
@@ -2430,10 +2522,13 @@
 |honeybadger_large|![honeybadger_large](pngs/honeybadger_large.png)|
 |honeycomb|![honeycomb](pngs/honeycomb.png)|
 |hoodie|![hoodie](pngs/hoodie.png)|
+|hootsuite-icon|![hootsuite-icon](pngs/hootsuite-icon.png)|
+|hootsuite|![hootsuite](pngs/hootsuite.png)|
 |horse|![horse](pngs/horse.png)|
 |hosted-graphite|![hosted-graphite](pngs/hosted-graphite.png)|
 |hostgator-icon|![hostgator-icon](pngs/hostgator-icon.png)|
 |hostgator|![hostgator](pngs/hostgator.png)|
+|hotjar-icon|![hotjar-icon](pngs/hotjar-icon.png)|
 |hotjar|![hotjar](pngs/hotjar.png)|
 |houndci|![houndci](pngs/houndci.png)|
 |hp-quicktest-professional|![hp-quicktest-professional](pngs/hp-quicktest-professional.png)|
@@ -2507,6 +2602,7 @@
 |icinga|![icinga](pngs/icinga.png)|
 |ie10-original|![ie10-original](pngs/ie10-original.png)|
 |ieee|![ieee](pngs/ieee.png)|
+|ietf|![ietf](pngs/ietf.png)|
 |ifttt|![ifttt](pngs/ifttt.png)|
 |ignite_large|![ignite_large](pngs/ignite_large.png)|
 |ignw-member|![ignw-member](pngs/ignw-member.png)|
@@ -2543,6 +2639,7 @@
 |influx-data-member|![influx-data-member](pngs/influx-data-member.png)|
 |influx-data|![influx-data](pngs/influx-data.png)|
 |influxdata|![influxdata](pngs/influxdata.png)|
+|influxdb-icon|![influxdb-icon](pngs/influxdb-icon.png)|
 |influxdb|![influxdb](pngs/influxdb.png)|
 |info|![info](pngs/info.png)|
 |infoblox-member|![infoblox-member](pngs/infoblox-member.png)|
@@ -2689,6 +2786,7 @@
 |jenkins_large|![jenkins_large](pngs/jenkins_large.png)|
 |jest-plain|![jest-plain](pngs/jest-plain.png)|
 |jest|![jest](pngs/jest.png)|
+|jetbrains-icon|![jetbrains-icon](pngs/jetbrains-icon.png)|
 |jetbrains-original|![jetbrains-original](pngs/jetbrains-original.png)|
 |jetbrains-plain|![jetbrains-plain](pngs/jetbrains-plain.png)|
 |jetbrains|![jetbrains](pngs/jetbrains.png)|
@@ -2860,6 +2958,7 @@
 |kops|![kops](pngs/kops.png)|
 |kops_2|![kops_2](pngs/kops_2.png)|
 |koreio|![koreio](pngs/koreio.png)|
+|kotlin-icon|![kotlin-icon](pngs/kotlin-icon.png)|
 |kotlin-original-wordmark|![kotlin-original-wordmark](pngs/kotlin-original-wordmark.png)|
 |kotlin-original|![kotlin-original](pngs/kotlin-original.png)|
 |kotlin-plain-wordmark|![kotlin-plain-wordmark](pngs/kotlin-plain-wordmark.png)|
@@ -2980,6 +3079,7 @@
 |lagoon|![lagoon](pngs/lagoon.png)|
 |lambdatest-software-license_large|![lambdatest-software-license_large](pngs/lambdatest-software-license_large.png)|
 |lambdatest_large|![lambdatest_large](pngs/lambdatest_large.png)|
+|languagetool|![languagetool](pngs/languagetool.png)|
 |laravel-plain-wordmark|![laravel-plain-wordmark](pngs/laravel-plain-wordmark.png)|
 |laravel-plain|![laravel-plain](pngs/laravel-plain.png)|
 |laravel|![laravel](pngs/laravel.png)|
@@ -3085,6 +3185,7 @@
 |lookback|![lookback](pngs/lookback.png)|
 |looker-icon|![looker-icon](pngs/looker-icon.png)|
 |looker|![looker](pngs/looker.png)|
+|loom-icon|![loom-icon](pngs/loom-icon.png)|
 |loom|![loom](pngs/loom.png)|
 |loopback-icon|![loopback-icon](pngs/loopback-icon.png)|
 |loopback|![loopback](pngs/loopback.png)|
@@ -3131,6 +3232,7 @@
 |maildeveloper|![maildeveloper](pngs/maildeveloper.png)|
 |mailgun-icon|![mailgun-icon](pngs/mailgun-icon.png)|
 |mailgun|![mailgun](pngs/mailgun.png)|
+|mailjet-icon|![mailjet-icon](pngs/mailjet-icon.png)|
 |mailjet|![mailjet](pngs/mailjet.png)|
 |mainstorconcept-ziris_large|![mainstorconcept-ziris_large](pngs/mainstorconcept-ziris_large.png)|
 |makina-rocks-kcsp|![makina-rocks-kcsp](pngs/makina-rocks-kcsp.png)|
@@ -3147,6 +3249,8 @@
 |mandao-fintech-member|![mandao-fintech-member](pngs/mandao-fintech-member.png)|
 |manjaro|![manjaro](pngs/manjaro.png)|
 |mantech-accordion|![mantech-accordion](pngs/mantech-accordion.png)|
+|mantine-icon|![mantine-icon](pngs/mantine-icon.png)|
+|mantine|![mantine](pngs/mantine.png)|
 |manuscript|![manuscript](pngs/manuscript.png)|
 |mapbox-icon|![mapbox-icon](pngs/mapbox-icon.png)|
 |mapbox|![mapbox](pngs/mapbox.png)|
@@ -3179,6 +3283,8 @@
 |matlab-line|![matlab-line](pngs/matlab-line.png)|
 |matlab-original|![matlab-original](pngs/matlab-original.png)|
 |matlab-plain|![matlab-plain](pngs/matlab-plain.png)|
+|matomo-icon|![matomo-icon](pngs/matomo-icon.png)|
+|matomo|![matomo](pngs/matomo.png)|
 |matplotlib-icon|![matplotlib-icon](pngs/matplotlib-icon.png)|
 |matplotlib|![matplotlib](pngs/matplotlib.png)|
 |mattermost-icon|![mattermost-icon](pngs/mattermost-icon.png)|
@@ -3200,6 +3306,8 @@
 |mdx|![mdx](pngs/mdx.png)|
 |medium-icon|![medium-icon](pngs/medium-icon.png)|
 |medium|![medium](pngs/medium.png)|
+|medusa-icon|![medusa-icon](pngs/medusa-icon.png)|
+|medusa|![medusa](pngs/medusa.png)|
 |mega-ease-member|![mega-ease-member](pngs/mega-ease-member.png)|
 |megaease|![megaease](pngs/megaease.png)|
 |megazone-cloud-member|![megazone-cloud-member](pngs/megazone-cloud-member.png)|
@@ -3218,6 +3326,7 @@
 |mesos|![mesos](pngs/mesos.png)|
 |mesos_large|![mesos_large](pngs/mesos_large.png)|
 |mesosphere-kubernetes-engine-mke|![mesosphere-kubernetes-engine-mke](pngs/mesosphere-kubernetes-engine-mke.png)|
+|messenger|![messenger](pngs/messenger.png)|
 |metabase|![metabase](pngs/metabase.png)|
 |metal-k8s|![metal-k8s](pngs/metal-k8s.png)|
 |metal-lb|![metal-lb](pngs/metal-lb.png)|
@@ -3243,8 +3352,11 @@
 |miao-yun-member|![miao-yun-member](pngs/miao-yun-member.png)|
 |micro-focus-member|![micro-focus-member](pngs/micro-focus-member.png)|
 |micro-k8s|![micro-k8s](pngs/micro-k8s.png)|
+|micro-python|![micro-python](pngs/micro-python.png)|
 |microcosm|![microcosm](pngs/microcosm.png)|
 |microk8s|![microk8s](pngs/microk8s.png)|
+|micron-icon|![micron-icon](pngs/micron-icon.png)|
+|micron|![micron](pngs/micron.png)|
 |microsoft-365_large|![microsoft-365_large](pngs/microsoft-365_large.png)|
 |microsoft-aks-engine-for-azure-stack|![microsoft-aks-engine-for-azure-stack](pngs/microsoft-aks-engine-for-azure-stack.png)|
 |microsoft-azure|![microsoft-azure](pngs/microsoft-azure.png)|
@@ -3260,6 +3372,8 @@
 |microsoft|![microsoft](pngs/microsoft.png)|
 |microsoftsqlserver-plain-wordmark|![microsoftsqlserver-plain-wordmark](pngs/microsoftsqlserver-plain-wordmark.png)|
 |microsoftsqlserver-plain|![microsoftsqlserver-plain](pngs/microsoftsqlserver-plain.png)|
+|mida-icon|![mida-icon](pngs/mida-icon.png)|
+|mida|![mida](pngs/mida.png)|
 |middleman|![middleman](pngs/middleman.png)|
 |midway-serverless|![midway-serverless](pngs/midway-serverless.png)|
 |midway|![midway](pngs/midway.png)|
@@ -3269,6 +3383,7 @@
 |minikube|![minikube](pngs/minikube.png)|
 |minitab-original|![minitab-original](pngs/minitab-original.png)|
 |minitab-plain|![minitab-plain](pngs/minitab-plain.png)|
+|mint-lang|![mint-lang](pngs/mint-lang.png)|
 |mio|![mio](pngs/mio.png)|
 |mirantis-docker-enterprise|![mirantis-docker-enterprise](pngs/mirantis-docker-enterprise.png)|
 |mirantis-kcsp|![mirantis-kcsp](pngs/mirantis-kcsp.png)|
@@ -3292,6 +3407,7 @@
 |mobx|![mobx](pngs/mobx.png)|
 |mocha-plain|![mocha-plain](pngs/mocha-plain.png)|
 |mocha|![mocha](pngs/mocha.png)|
+|mockflow-icon|![mockflow-icon](pngs/mockflow-icon.png)|
 |mockflow|![mockflow](pngs/mockflow.png)|
 |modernizr|![modernizr](pngs/modernizr.png)|
 |modx-icon|![modx-icon](pngs/modx-icon.png)|
@@ -3316,6 +3432,7 @@
 |monero|![monero](pngs/monero.png)|
 |mongo-db|![mongo-db](pngs/mongo-db.png)|
 |mongodb-atlas_large|![mongodb-atlas_large](pngs/mongodb-atlas_large.png)|
+|mongodb-icon|![mongodb-icon](pngs/mongodb-icon.png)|
 |mongodb-logo|![mongodb-logo](pngs/mongodb-logo.png)|
 |mongodb-original-wordmark|![mongodb-original-wordmark](pngs/mongodb-original-wordmark.png)|
 |mongodb-original|![mongodb-original](pngs/mongodb-original.png)|
@@ -3391,6 +3508,7 @@
 |nagios|![nagios](pngs/nagios.png)|
 |nagios_large|![nagios_large](pngs/nagios_large.png)|
 |naic-member|![naic-member](pngs/naic-member.png)|
+|naiveui|![naiveui](pngs/naiveui.png)|
 |namecheap|![namecheap](pngs/namecheap.png)|
 |namutech-kcsp|![namutech-kcsp](pngs/namutech-kcsp.png)|
 |namutech-member|![namutech-member](pngs/namutech-member.png)|
@@ -3398,6 +3516,7 @@
 |nanonets|![nanonets](pngs/nanonets.png)|
 |narwhal|![narwhal](pngs/narwhal.png)|
 |nasdaq-supporter|![nasdaq-supporter](pngs/nasdaq-supporter.png)|
+|nasm|![nasm](pngs/nasm.png)|
 |national-information-society-agency-member|![national-information-society-agency-member](pngs/national-information-society-agency-member.png)|
 |nativescript|![nativescript](pngs/nativescript.png)|
 |nats-icon|![nats-icon](pngs/nats-icon.png)|
@@ -3466,6 +3585,7 @@
 |new-context-kcsp|![new-context-kcsp](pngs/new-context-kcsp.png)|
 |new-context-member|![new-context-member](pngs/new-context-member.png)|
 |new-context|![new-context](pngs/new-context.png)|
+|new-relic-icon|![new-relic-icon](pngs/new-relic-icon.png)|
 |new-relic-member|![new-relic-member](pngs/new-relic-member.png)|
 |new-relic|![new-relic](pngs/new-relic.png)|
 |new-relic_2|![new-relic_2](pngs/new-relic_2.png)|
@@ -3501,6 +3621,7 @@
 |nifcloud-kubernetes-service-hatoba|![nifcloud-kubernetes-service-hatoba](pngs/nifcloud-kubernetes-service-hatoba.png)|
 |nightingale|![nightingale](pngs/nightingale.png)|
 |nightwatch|![nightwatch](pngs/nightwatch.png)|
+|nim-lang|![nim-lang](pngs/nim-lang.png)|
 |nimbella|![nimbella](pngs/nimbella.png)|
 |nipr-member|![nipr-member](pngs/nipr-member.png)|
 |nirmata-cloud-native-policy-manager|![nirmata-cloud-native-policy-manager](pngs/nirmata-cloud-native-policy-manager.png)|
@@ -3516,6 +3637,7 @@
 |no-code|![no-code](pngs/no-code.png)|
 |nobl9_large|![nobl9_large](pngs/nobl9_large.png)|
 |nocalhost|![nocalhost](pngs/nocalhost.png)|
+|nocodb|![nocodb](pngs/nocodb.png)|
 |nocode|![nocode](pngs/nocode.png)|
 |nodal|![nodal](pngs/nodal.png)|
 |node-lambda|![node-lambda](pngs/node-lambda.png)|
@@ -3542,6 +3664,7 @@
 |nodewebkit|![nodewebkit](pngs/nodewebkit.png)|
 |nokia-container-services|![nokia-container-services](pngs/nokia-container-services.png)|
 |nokia-member|![nokia-member](pngs/nokia-member.png)|
+|nomad-icon|![nomad-icon](pngs/nomad-icon.png)|
 |nomad|![nomad](pngs/nomad.png)|
 |nomad_2|![nomad_2](pngs/nomad_2.png)|
 |nomad_large|![nomad_large](pngs/nomad_large.png)|
@@ -3602,6 +3725,7 @@
 |nuxtjs-plain|![nuxtjs-plain](pngs/nuxtjs-plain.png)|
 |nvidia-jetson_large|![nvidia-jetson_large](pngs/nvidia-jetson_large.png)|
 |nvidia-member|![nvidia-member](pngs/nvidia-member.png)|
+|nvidia|![nvidia](pngs/nvidia.png)|
 |nvml_large|![nvml_large](pngs/nvml_large.png)|
 |nx|![nx](pngs/nx.png)|
 |nxlog_large|![nxlog_large](pngs/nxlog_large.png)|
@@ -3747,6 +3871,7 @@
 |opsmatic_large|![opsmatic_large](pngs/opsmatic_large.png)|
 |opsmx|![opsmx](pngs/opsmx.png)|
 |opstrace|![opstrace](pngs/opstrace.png)|
+|optimizely-icon|![optimizely-icon](pngs/optimizely-icon.png)|
 |optimizely|![optimizely](pngs/optimizely.png)|
 |oracle-cloud-infrastructure_large|![oracle-cloud-infrastructure_large](pngs/oracle-cloud-infrastructure_large.png)|
 |oracle-cloud-native-environment|![oracle-cloud-native-environment](pngs/oracle-cloud-native-environment.png)|
@@ -3785,6 +3910,8 @@
 |otrs|![otrs](pngs/otrs.png)|
 |ov-hcloud-member|![ov-hcloud-member](pngs/ov-hcloud-member.png)|
 |over-ops|![over-ops](pngs/over-ops.png)|
+|overloop-icon|![overloop-icon](pngs/overloop-icon.png)|
+|overloop|![overloop](pngs/overloop.png)|
 |overops|![overops](pngs/overops.png)|
 |ovh-managed-kubernetes-service|![ovh-managed-kubernetes-service](pngs/ovh-managed-kubernetes-service.png)|
 |ovhcloud|![ovhcloud](pngs/ovhcloud.png)|
@@ -3795,6 +3922,7 @@
 |ozone-kcsp|![ozone-kcsp](pngs/ozone-kcsp.png)|
 |ozone-member|![ozone-member](pngs/ozone-member.png)|
 |ozone|![ozone](pngs/ozone.png)|
+|p5js|![p5js](pngs/p5js.png)|
 |paa-sta|![paa-sta](pngs/paa-sta.png)|
 |paasta|![paasta](pngs/paasta.png)|
 |pachyderm|![pachyderm](pngs/pachyderm.png)|
@@ -3825,6 +3953,8 @@
 |particule-ktp|![particule-ktp](pngs/particule-ktp.png)|
 |particule-member|![particule-member](pngs/particule-member.png)|
 |particule|![particule](pngs/particule.png)|
+|partytown-icon|![partytown-icon](pngs/partytown-icon.png)|
+|partytown|![partytown](pngs/partytown.png)|
 |passage|![passage](pngs/passage.png)|
 |passbolt-icon|![passbolt-icon](pngs/passbolt-icon.png)|
 |passbolt|![passbolt](pngs/passbolt.png)|
@@ -3832,6 +3962,7 @@
 |patreon|![patreon](pngs/patreon.png)|
 |pay-it-supporter|![pay-it-supporter](pngs/pay-it-supporter.png)|
 |payit|![payit](pngs/payit.png)|
+|payload|![payload](pngs/payload.png)|
 |paypal|![paypal](pngs/paypal.png)|
 |pdh_large|![pdh_large](pngs/pdh_large.png)|
 |pdt-partners-supporter|![pdt-partners-supporter](pngs/pdt-partners-supporter.png)|
@@ -3920,12 +4051,16 @@
 |platformer-member|![platformer-member](pngs/platformer-member.png)|
 |platformio|![platformio](pngs/platformio.png)|
 |play|![play](pngs/play.png)|
+|playwright|![playwright](pngs/playwright.png)|
 |pliant_large|![pliant_large](pngs/pliant_large.png)|
 |plural-member|![plural-member](pngs/plural-member.png)|
 |plural|![plural](pngs/plural.png)|
+|pluralsight-icon|![pluralsight-icon](pngs/pluralsight-icon.png)|
+|pluralsight|![pluralsight](pngs/pluralsight.png)|
 |plusserver-member|![plusserver-member](pngs/plusserver-member.png)|
 |plusserver|![plusserver](pngs/plusserver.png)|
 |pluto|![pluto](pngs/pluto.png)|
+|pm2-icon|![pm2-icon](pngs/pm2-icon.png)|
 |pm2|![pm2](pngs/pm2.png)|
 |pnpm|![pnpm](pngs/pnpm.png)|
 |podman-logo|![podman-logo](pngs/podman-logo.png)|
@@ -4009,6 +4144,8 @@
 |processing-original|![processing-original](pngs/processing-original.png)|
 |processing-plain-wordmark|![processing-plain-wordmark](pngs/processing-plain-wordmark.png)|
 |processing-plain|![processing-plain](pngs/processing-plain.png)|
+|processing|![processing](pngs/processing.png)|
+|processwire-icon|![processwire-icon](pngs/processwire-icon.png)|
 |processwire|![processwire](pngs/processwire.png)|
 |productboard-icon|![productboard-icon](pngs/productboard-icon.png)|
 |productboard|![productboard](pngs/productboard.png)|
@@ -4084,6 +4221,8 @@
 |pycharm-plain-wordmark|![pycharm-plain-wordmark](pngs/pycharm-plain-wordmark.png)|
 |pycharm-plain|![pycharm-plain](pngs/pycharm-plain.png)|
 |pycharm|![pycharm](pngs/pycharm.png)|
+|pypi|![pypi](pngs/pypi.png)|
+|pyscript|![pyscript](pngs/pyscript.png)|
 |python-original-wordmark|![python-original-wordmark](pngs/python-original-wordmark.png)|
 |python-original|![python-original](pngs/python-original.png)|
 |python-plain-wordmark|![python-plain-wordmark](pngs/python-plain-wordmark.png)|
@@ -4091,6 +4230,7 @@
 |python|![python](pngs/python.png)|
 |python_1|![python_1](pngs/python_1.png)|
 |python_large|![python_large](pngs/python_large.png)|
+|pytorch-icon|![pytorch-icon](pngs/pytorch-icon.png)|
 |pytorch|![pytorch](pngs/pytorch.png)|
 |pyup|![pyup](pngs/pyup.png)|
 |q-aware-member|![q-aware-member](pngs/q-aware-member.png)|
@@ -4106,6 +4246,7 @@
 |qovery-member|![qovery-member](pngs/qovery-member.png)|
 |qt|![qt](pngs/qt.png)|
 |quail|![quail](pngs/quail.png)|
+|qualcomm|![qualcomm](pngs/qualcomm.png)|
 |quarkus-icon|![quarkus-icon](pngs/quarkus-icon.png)|
 |quarkus|![quarkus](pngs/quarkus.png)|
 |quay|![quay](pngs/quay.png)|
@@ -4116,6 +4257,7 @@
 |quobyte|![quobyte](pngs/quobyte.png)|
 |quobyte_2|![quobyte_2](pngs/quobyte_2.png)|
 |quora|![quora](pngs/quora.png)|
+|qwik|![qwik](pngs/qwik.png)|
 |r-lang|![r-lang](pngs/r-lang.png)|
 |r-original|![r-original](pngs/r-original.png)|
 |r-plain|![r-plain](pngs/r-plain.png)|
@@ -4128,6 +4270,7 @@
 |rackner-member|![rackner-member](pngs/rackner-member.png)|
 |rackner|![rackner](pngs/rackner.png)|
 |rackspace-horizontal|![rackspace-horizontal](pngs/rackspace-horizontal.png)|
+|rackspace-icon|![rackspace-icon](pngs/rackspace-icon.png)|
 |rackspace-technology-kcsp|![rackspace-technology-kcsp](pngs/rackspace-technology-kcsp.png)|
 |rackspace-technology-member|![rackspace-technology-member](pngs/rackspace-technology-member.png)|
 |rackspace|![rackspace](pngs/rackspace.png)|
@@ -4188,6 +4331,8 @@
 |rbltracker_large|![rbltracker_large](pngs/rbltracker_large.png)|
 |react-original-wordmark|![react-original-wordmark](pngs/react-original-wordmark.png)|
 |react-original|![react-original](pngs/react-original.png)|
+|react-query-icon|![react-query-icon](pngs/react-query-icon.png)|
+|react-query|![react-query](pngs/react-query.png)|
 |react-router|![react-router](pngs/react-router.png)|
 |react-spring|![react-spring](pngs/react-spring.png)|
 |react-styleguidist|![react-styleguidist](pngs/react-styleguidist.png)|
@@ -4245,6 +4390,7 @@
 |redux-original|![redux-original](pngs/redux-original.png)|
 |redux-saga|![redux-saga](pngs/redux-saga.png)|
 |redux|![redux](pngs/redux.png)|
+|redwoodjs|![redwoodjs](pngs/redwoodjs.png)|
 |refinitiv-member|![refinitiv-member](pngs/refinitiv-member.png)|
 |refinitiv|![refinitiv](pngs/refinitiv.png)|
 |reindex|![reindex](pngs/reindex.png)|
@@ -4275,6 +4421,7 @@
 |riak_large|![riak_large](pngs/riak_large.png)|
 |ricardo-ch-supporter|![ricardo-ch-supporter](pngs/ricardo-ch-supporter.png)|
 |ricardo|![ricardo](pngs/ricardo.png)|
+|rider|![rider](pngs/rider.png)|
 |ridge-kubernetes-service|![ridge-kubernetes-service](pngs/ridge-kubernetes-service.png)|
 |ridge-member|![ridge-member](pngs/ridge-member.png)|
 |ridge|![ridge](pngs/ridge.png)|
@@ -4318,6 +4465,7 @@
 |roost-desktop|![roost-desktop](pngs/roost-desktop.png)|
 |roost-member|![roost-member](pngs/roost-member.png)|
 |roost|![roost](pngs/roost.png)|
+|ros|![ros](pngs/ros.png)|
 |rsa|![rsa](pngs/rsa.png)|
 |rsmq|![rsmq](pngs/rsmq.png)|
 |rstudio-original|![rstudio-original](pngs/rstudio-original.png)|
@@ -4435,6 +4583,8 @@
 |scylla|![scylla](pngs/scylla.png)|
 |scylla_large|![scylla_large](pngs/scylla_large.png)|
 |sea-tunnal|![sea-tunnal](pngs/sea-tunnal.png)|
+|seaborn-icon|![seaborn-icon](pngs/seaborn-icon.png)|
+|seaborn|![seaborn](pngs/seaborn.png)|
 |seagate-member|![seagate-member](pngs/seagate-member.png)|
 |seagate|![seagate](pngs/seagate.png)|
 |searce-member|![searce-member](pngs/searce-member.png)|
@@ -4541,6 +4691,8 @@
 |sigma|![sigma](pngs/sigma.png)|
 |signal-fx|![signal-fx](pngs/signal-fx.png)|
 |signal|![signal](pngs/signal.png)|
+|signalsciences-icon|![signalsciences-icon](pngs/signalsciences-icon.png)|
+|signalsciences|![signalsciences](pngs/signalsciences.png)|
 |signl4_large|![signl4_large](pngs/signl4_large.png)|
 |sigsci_large|![sigsci_large](pngs/sigsci_large.png)|
 |simple-nexus-supporter|![simple-nexus-supporter](pngs/simple-nexus-supporter.png)|
@@ -4548,11 +4700,13 @@
 |sinatra_large|![sinatra_large](pngs/sinatra_large.png)|
 |single-store-member|![single-store-member](pngs/single-store-member.png)|
 |single-store|![single-store](pngs/single-store.png)|
+|singlestore-icon|![singlestore-icon](pngs/singlestore-icon.png)|
 |singlestore|![singlestore](pngs/singlestore.png)|
 |singlestore_large|![singlestore_large](pngs/singlestore_large.png)|
 |singularity|![singularity](pngs/singularity.png)|
 |site-where-member|![site-where-member](pngs/site-where-member.png)|
 |sitepoint|![sitepoint](pngs/sitepoint.png)|
+|sk-hynix|![sk-hynix](pngs/sk-hynix.png)|
 |skaffold|![skaffold](pngs/skaffold.png)|
 |skaffolder|![skaffolder](pngs/skaffolder.png)|
 |sketch-line-wordmark|![sketch-line-wordmark](pngs/sketch-line-wordmark.png)|
@@ -4740,6 +4894,8 @@
 |stack-storm|![stack-storm](pngs/stack-storm.png)|
 |stackbit-icon|![stackbit-icon](pngs/stackbit-icon.png)|
 |stackbit|![stackbit](pngs/stackbit.png)|
+|stackblitz-icon|![stackblitz-icon](pngs/stackblitz-icon.png)|
+|stackblitz|![stackblitz](pngs/stackblitz.png)|
 |stackery|![stackery](pngs/stackery.png)|
 |stackgenie-kcsp|![stackgenie-kcsp](pngs/stackgenie-kcsp.png)|
 |stackgenie-member|![stackgenie-member](pngs/stackgenie-member.png)|
@@ -4781,6 +4937,7 @@
 |stenciljs|![stenciljs](pngs/stenciljs.png)|
 |stetho|![stetho](pngs/stetho.png)|
 |stickermule|![stickermule](pngs/stickermule.png)|
+|stimulus-icon|![stimulus-icon](pngs/stimulus-icon.png)|
 |stimulus|![stimulus](pngs/stimulus.png)|
 |stitch|![stitch](pngs/stitch.png)|
 |stolon|![stolon](pngs/stolon.png)|
@@ -4814,6 +4971,7 @@
 |stratox|![stratox](pngs/stratox.png)|
 |stream-native-member|![stream-native-member](pngs/stream-native-member.png)|
 |stream-sets|![stream-sets](pngs/stream-sets.png)|
+|streamlit|![streamlit](pngs/streamlit.png)|
 |streamnative|![streamnative](pngs/streamnative.png)|
 |streamsets|![streamsets](pngs/streamsets.png)|
 |strider|![strider](pngs/strider.png)|
@@ -4850,6 +5008,8 @@
 |sup-info-information-technology-kcsp|![sup-info-information-technology-kcsp](pngs/sup-info-information-technology-kcsp.png)|
 |sup-info-information-technology-member|![sup-info-information-technology-member](pngs/sup-info-information-technology-member.png)|
 |sup-info|![sup-info](pngs/sup-info.png)|
+|supabase-icon|![supabase-icon](pngs/supabase-icon.png)|
+|supabase|![supabase](pngs/supabase.png)|
 |super-edge|![super-edge](pngs/super-edge.png)|
 |super-orbital-member|![super-orbital-member](pngs/super-orbital-member.png)|
 |superedge|![superedge](pngs/superedge.png)|
@@ -4858,6 +5018,7 @@
 |superwise-license_large|![superwise-license_large](pngs/superwise-license_large.png)|
 |superwise_large|![superwise_large](pngs/superwise_large.png)|
 |surge|![surge](pngs/surge.png)|
+|survicate-icon|![survicate-icon](pngs/survicate-icon.png)|
 |survicate|![survicate](pngs/survicate.png)|
 |suse-member|![suse-member](pngs/suse-member.png)|
 |suse|![suse](pngs/suse.png)|
@@ -4866,6 +5027,7 @@
 |sva-member|![sva-member](pngs/sva-member.png)|
 |sva|![sva](pngs/sva.png)|
 |svelte-icon|![svelte-icon](pngs/svelte-icon.png)|
+|svelte-kit|![svelte-kit](pngs/svelte-kit.png)|
 |svelte-original-wordmark|![svelte-original-wordmark](pngs/svelte-original-wordmark.png)|
 |svelte-original|![svelte-original](pngs/svelte-original.png)|
 |svelte-plain-wordmark|![svelte-plain-wordmark](pngs/svelte-plain-wordmark.png)|
@@ -4989,6 +5151,8 @@
 |terrascan|![terrascan](pngs/terrascan.png)|
 |terser-icon|![terser-icon](pngs/terser-icon.png)|
 |terser|![terser](pngs/terser.png)|
+|testcafe|![testcafe](pngs/testcafe.png)|
+|testing-library|![testing-library](pngs/testing-library.png)|
 |testkube|![testkube](pngs/testkube.png)|
 |testlodge|![testlodge](pngs/testlodge.png)|
 |teststack-white|![teststack-white](pngs/teststack-white.png)|
@@ -5020,7 +5184,10 @@
 |thred-up-supporter|![thred-up-supporter](pngs/thred-up-supporter.png)|
 |threejs-original-wordmark|![threejs-original-wordmark](pngs/threejs-original-wordmark.png)|
 |threejs-original|![threejs-original](pngs/threejs-original.png)|
+|threejs|![threejs](pngs/threejs.png)|
 |thundra|![thundra](pngs/thundra.png)|
+|thymeleaf-icon|![thymeleaf-icon](pngs/thymeleaf-icon.png)|
+|thymeleaf|![thymeleaf](pngs/thymeleaf.png)|
 |ti-db|![ti-db](pngs/ti-db.png)|
 |ti-kv|![ti-kv](pngs/ti-kv.png)|
 |ticket-master-supporter|![ticket-master-supporter](pngs/ticket-master-supporter.png)|
@@ -5119,12 +5286,15 @@
 |trivago-supporter|![trivago-supporter](pngs/trivago-supporter.png)|
 |trivago|![trivago](pngs/trivago.png)|
 |trivy|![trivy](pngs/trivy.png)|
+|trpc|![trpc](pngs/trpc.png)|
 |true-kcsp|![true-kcsp](pngs/true-kcsp.png)|
 |true-member|![true-member](pngs/true-member.png)|
 |true|![true](pngs/true.png)|
 |truffle-icon|![truffle-icon](pngs/truffle-icon.png)|
 |truffle|![truffle](pngs/truffle.png)|
 |tsb|![tsb](pngs/tsb.png)|
+|tsmc|![tsmc](pngs/tsmc.png)|
+|tsnode|![tsnode](pngs/tsnode.png)|
 |tsu|![tsu](pngs/tsu.png)|
 |tsung|![tsung](pngs/tsung.png)|
 |tsuru|![tsuru](pngs/tsuru.png)|
@@ -5159,6 +5329,8 @@
 |tynybay|![tynybay](pngs/tynybay.png)|
 |typeform-icon|![typeform-icon](pngs/typeform-icon.png)|
 |typeform|![typeform](pngs/typeform.png)|
+|typeorm|![typeorm](pngs/typeorm.png)|
+|typescript-icon-round|![typescript-icon-round](pngs/typescript-icon-round.png)|
 |typescript-icon|![typescript-icon](pngs/typescript-icon.png)|
 |typescript-original|![typescript-original](pngs/typescript-original.png)|
 |typescript-plain|![typescript-plain](pngs/typescript-plain.png)|
@@ -5214,6 +5386,9 @@
 |university-of-michigan-member|![university-of-michigan-member](pngs/university-of-michigan-member.png)|
 |university-of-michigan|![university-of-michigan](pngs/university-of-michigan.png)|
 |unix-original|![unix-original](pngs/unix-original.png)|
+|unocss|![unocss](pngs/unocss.png)|
+|unrealengine-icon|![unrealengine-icon](pngs/unrealengine-icon.png)|
+|unrealengine|![unrealengine](pngs/unrealengine.png)|
 |up9-member|![up9-member](pngs/up9-member.png)|
 |up9|![up9](pngs/up9.png)|
 |upbound-member|![upbound-member](pngs/upbound-member.png)|
@@ -5264,6 +5439,7 @@
 |vault_2|![vault_2](pngs/vault_2.png)|
 |vault_large|![vault_large](pngs/vault_large.png)|
 |vcluster|![vcluster](pngs/vcluster.png)|
+|vector-alt|![vector-alt](pngs/vector-alt.png)|
 |vector-timber|![vector-timber](pngs/vector-timber.png)|
 |vector|![vector](pngs/vector.png)|
 |vectorized-member|![vectorized-member](pngs/vectorized-member.png)|
@@ -5278,6 +5454,8 @@
 |vercel|![vercel](pngs/vercel.png)|
 |vercel_2|![vercel_2](pngs/vercel_2.png)|
 |vercel_large|![vercel_large](pngs/vercel_large.png)|
+|verdaccio-icon|![verdaccio-icon](pngs/verdaccio-icon.png)|
+|verdaccio|![verdaccio](pngs/verdaccio.png)|
 |verizon-communications-member|![verizon-communications-member](pngs/verizon-communications-member.png)|
 |verizon-media-supporter|![verizon-media-supporter](pngs/verizon-media-supporter.png)|
 |vermiculus-financial-technology-supporter|![vermiculus-financial-technology-supporter](pngs/vermiculus-financial-technology-supporter.png)|
@@ -5312,6 +5490,7 @@
 |visualstudio-plain|![visualstudio-plain](pngs/visualstudio-plain.png)|
 |vitejs|![vitejs](pngs/vitejs.png)|
 |vitess|![vitess](pngs/vitess.png)|
+|vitest|![vitest](pngs/vitest.png)|
 |vivaldi-icon|![vivaldi-icon](pngs/vivaldi-icon.png)|
 |vivaldi|![vivaldi](pngs/vivaldi.png)|
 |vlang|![vlang](pngs/vlang.png)|
@@ -5351,7 +5530,9 @@
 |vuestorefront-original|![vuestorefront-original](pngs/vuestorefront-original.png)|
 |vuestorefront-plain|![vuestorefront-plain](pngs/vuestorefront-plain.png)|
 |vuetifyjs|![vuetifyjs](pngs/vuetifyjs.png)|
+|vueuse|![vueuse](pngs/vueuse.png)|
 |vulkan|![vulkan](pngs/vulkan.png)|
+|vultr-icon|![vultr-icon](pngs/vultr-icon.png)|
 |vultr-kubernetes-engine|![vultr-kubernetes-engine](pngs/vultr-kubernetes-engine.png)|
 |vultr-member|![vultr-member](pngs/vultr-member.png)|
 |vultr|![vultr](pngs/vultr.png)|
@@ -5418,6 +5599,7 @@
 |webiny|![webiny](pngs/webiny.png)|
 |webix-icon|![webix-icon](pngs/webix-icon.png)|
 |webix|![webix](pngs/webix.png)|
+|webkit|![webkit](pngs/webkit.png)|
 |weblate-original-wordmark|![weblate-original-wordmark](pngs/weblate-original-wordmark.png)|
 |weblate-original|![weblate-original](pngs/weblate-original.png)|
 |weblate-plain-wordmark|![weblate-plain-wordmark](pngs/weblate-plain-wordmark.png)|
@@ -5449,8 +5631,11 @@
 |wha-tap-kcsp|![wha-tap-kcsp](pngs/wha-tap-kcsp.png)|
 |wha-tap-member|![wha-tap-member](pngs/wha-tap-member.png)|
 |wha-tap|![wha-tap](pngs/wha-tap.png)|
+|whalar-icon|![whalar-icon](pngs/whalar-icon.png)|
 |whalar|![whalar](pngs/whalar.png)|
 |whatap-labs|![whatap-labs](pngs/whatap-labs.png)|
+|whatsapp-icon|![whatsapp-icon](pngs/whatsapp-icon.png)|
+|whatsapp-monochrome-icon|![whatsapp-monochrome-icon](pngs/whatsapp-monochrome-icon.png)|
 |whatsapp|![whatsapp](pngs/whatsapp.png)|
 |whatwg|![whatwg](pngs/whatwg.png)|
 |white-source-member|![white-source-member](pngs/white-source-member.png)|
@@ -5500,6 +5685,7 @@
 |woqu-tech-kcsp|![woqu-tech-kcsp](pngs/woqu-tech-kcsp.png)|
 |woqu-tech-member|![woqu-tech-member](pngs/woqu-tech-member.png)|
 |woqutech|![woqutech](pngs/woqutech.png)|
+|wordpress-icon-alt|![wordpress-icon-alt](pngs/wordpress-icon-alt.png)|
 |wordpress-icon|![wordpress-icon](pngs/wordpress-icon.png)|
 |wordpress-original|![wordpress-original](pngs/wordpress-original.png)|
 |wordpress-plain-wordmark|![wordpress-plain-wordmark](pngs/wordpress-plain-wordmark.png)|
@@ -5508,6 +5694,7 @@
 |workboard|![workboard](pngs/workboard.png)|
 |workday-supporter|![workday-supporter](pngs/workday-supporter.png)|
 |workflow|![workflow](pngs/workflow.png)|
+|workplace-icon|![workplace-icon](pngs/workplace-icon.png)|
 |workplace|![workplace](pngs/workplace.png)|
 |wowjoy-technology-member|![wowjoy-technology-member](pngs/wowjoy-technology-member.png)|
 |wowjoy-technology|![wowjoy-technology](pngs/wowjoy-technology.png)|
@@ -5540,6 +5727,7 @@
 |xl-deploy|![xl-deploy](pngs/xl-deploy.png)|
 |xmatters_large|![xmatters_large](pngs/xmatters_large.png)|
 |xplenty|![xplenty](pngs/xplenty.png)|
+|xray-for-jira|![xray-for-jira](pngs/xray-for-jira.png)|
 |xsky|![xsky](pngs/xsky.png)|
 |xstate|![xstate](pngs/xstate.png)|
 |xtend|![xtend](pngs/xtend.png)|
@@ -5608,6 +5796,7 @@
 |zig-original-wordmark|![zig-original-wordmark](pngs/zig-original-wordmark.png)|
 |zig-original|![zig-original](pngs/zig-original.png)|
 |zig-plain-wordmark|![zig-plain-wordmark](pngs/zig-plain-wordmark.png)|
+|zig|![zig](pngs/zig.png)|
 |zipkin|![zipkin](pngs/zipkin.png)|
 |zoho|![zoho](pngs/zoho.png)|
 |zoi-kcsp|![zoi-kcsp](pngs/zoi-kcsp.png)|
