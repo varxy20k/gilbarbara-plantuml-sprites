@@ -1,8 +1,11 @@
 #!/usr/bin/env groovy
 
+@GrabConfig(systemClassLoader=true)
+
 @Grab('net.sourceforge.plantuml:plantuml:1.2022.1')
 @Grab('org.apache.xmlgraphics:batik-transcoder:1.14')
 @Grab('org.apache.xmlgraphics:batik-codec:1.14')
+@Grab('info.picocli:picocli-groovy:4.6.3')
 
 import groovy.json.JsonSlurper
 import java.awt.AlphaComposite
@@ -18,6 +21,7 @@ import net.sourceforge.plantuml.sprite.SpriteUtils
 import org.apache.batik.transcoder.TranscoderInput
 import org.apache.batik.transcoder.TranscoderOutput
 import org.apache.batik.transcoder.image.PNGTranscoder
+import groovy.cli.picocli.CliBuilder
 
 final DEFAULT_SCALE = 0.2
 final TMP_DIR = new File('/tmp/svgsFolderUrl2plantUmlSprites')
