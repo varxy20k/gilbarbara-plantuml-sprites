@@ -1,7 +1,0 @@
-@startuml
-sprite $azure-api-management [3x3/16] {
-010
-020
-030
-}
-@enduml
