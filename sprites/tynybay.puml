@@ -1,0 +1,6 @@
+@startuml
+sprite $tynybay [15x2/16] {
+00F8FFFFFF0FF80
+00008F00FEF0000
+}
+@enduml

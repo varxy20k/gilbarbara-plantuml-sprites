@@ -1,0 +1,8 @@
+@startuml
+sprite $rng-technology [14x4/16] {
+FFFFF0FFFCF6FF
+FFFFF0FFFFFF0F
+FFFFF0FFF0F5FF
+2700C08E00B00D
+}
+@enduml

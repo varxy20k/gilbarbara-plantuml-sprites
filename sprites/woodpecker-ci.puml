@@ -1,0 +1,6 @@
+@startuml
+sprite $woodpecker-ci [2x2/16] {
+F0
+00
+}
+@enduml

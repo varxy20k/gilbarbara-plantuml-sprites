@@ -1,0 +1,8 @@
+@startuml
+sprite $cortex-member [13x4/16] {
+EBBE000000000
+E77E00DE1E507
+D54E00E8A3E4B
+EDDE000000000
+}
+@enduml

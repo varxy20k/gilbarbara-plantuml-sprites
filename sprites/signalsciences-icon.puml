@@ -1,0 +1,10 @@
+@startuml
+sprite $signalsciences-icon [6x6/16] {
+078800
+708007
+040150
+000800
+028080
+008800
+}
+@enduml

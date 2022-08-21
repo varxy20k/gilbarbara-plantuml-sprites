@@ -1,0 +1,6 @@
+@startuml
+sprite $avisi [7x2/16] {
+000004B
+FFF004B
+}
+@enduml

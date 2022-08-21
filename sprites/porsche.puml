@@ -1,0 +1,6 @@
+@startuml
+sprite $porsche [21x2/16] {
+6CC8CCCCCBCCCCC007CC6
+6008CCC00CCCCCC007CC6
+}
+@enduml

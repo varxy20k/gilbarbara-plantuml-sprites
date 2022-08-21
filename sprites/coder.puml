@@ -1,0 +1,7 @@
+@startuml
+sprite $coder [14x3/16] {
+0F910020000000
+A0F00F013FFFFD
+0F2100F0F1A885
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+sprite $intel [9x4/16] {
+600000050
+AAA0A8A50
+AA000AA50
+AA00AAA55
+}
+@enduml

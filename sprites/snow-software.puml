@@ -1,0 +1,6 @@
+@startuml
+sprite $snow-software [10x2/16] {
+6F0C098009
+2F05342023
+}
+@enduml
