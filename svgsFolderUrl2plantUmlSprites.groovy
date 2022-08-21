@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-@Grab('net.sourceforge.plantuml:plantuml:1.2020.0')
+@Grab('net.sourceforge.plantuml:plantuml:1.2022.1')
 @Grab('org.apache.xmlgraphics:batik-transcoder:1.14')
 @Grab('org.apache.xmlgraphics:batik-codec:1.14')
 
